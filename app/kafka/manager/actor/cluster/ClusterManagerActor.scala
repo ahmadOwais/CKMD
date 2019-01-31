@@ -31,7 +31,7 @@ import scala.reflect.ClassTag
 import scala.util.{Failure, Try}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 object ClusterManagerActor {
   import org.json4s._

@@ -9,7 +9,7 @@ import features.{KMTopicManagerFeature, KMClusterManagerFeature, KMPreferredRepl
 import kafka.manager.features.{KMLogKafkaFeature, ClusterFeatures}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class Menus(implicit applicationFeatures: ApplicationFeatures) {
   import models.navigation.QuickRoutes._

@@ -28,7 +28,7 @@ import scala.util.{Success, Failure, Try}
 import scalaz.{\/-, -\/}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class Logkafka (val messagesApi: MessagesApi, val kafkaManagerContext: KafkaManagerContext)
                (implicit af: ApplicationFeatures, menus: Menus)  extends Controller with I18nSupport {

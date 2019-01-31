@@ -29,7 +29,7 @@ import scala.util.{Failure, Success, Try}
 import scalaz.-\/
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class Topic (val messagesApi: MessagesApi, val kafkaManagerContext: KafkaManagerContext)
             (implicit af: ApplicationFeatures, menus: Menus) extends Controller with I18nSupport {

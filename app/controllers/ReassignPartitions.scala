@@ -23,7 +23,7 @@ import scala.concurrent.Future
 import scalaz.{\/, \/-, -\/}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class ReassignPartitions (val messagesApi: MessagesApi, val kafkaManagerContext: KafkaManagerContext)
                          (implicit af: ApplicationFeatures, menus: Menus)  extends Controller with I18nSupport {

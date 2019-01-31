@@ -29,7 +29,7 @@ import org.apache.kafka.streams.StreamsConfig
 import scala.util.Try
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class SeededBroker(seedTopic: String, partitions: Int) {
   private[this] val maxRetry = 100

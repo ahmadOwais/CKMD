@@ -10,7 +10,7 @@ import kafka.manager.model.{Kafka_1_1_1, Kafka_1_1_0, Kafka_1_0_0, Kafka_0_11_0_
 import org.scalatest.FunSuite
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class TestKafkaMetrics extends FunSuite {
   test("generate broker metric name correctly for kafka 0.8.1.1") {

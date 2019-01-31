@@ -19,7 +19,7 @@ import org.json4s.jackson.Serialization
 import org.json4s.scalaz.JsonScalaz.toJSON
 
 /**
- * @author jisookim0513
+ * @author mohaahma
  */
 
 class KafkaStateCheck (val messagesApi: MessagesApi, val kafkaManagerContext: KafkaManagerContext)

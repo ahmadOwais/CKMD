@@ -25,7 +25,7 @@ import scala.reflect.ClassTag
 import scala.util.Try
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class TestClusterManagerActor extends CuratorAwareTest with BaseTest {
 

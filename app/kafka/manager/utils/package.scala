@@ -9,7 +9,7 @@ import java.nio.charset.StandardCharsets
 import java.text.NumberFormat
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 package object utils {
   import org.json4s._

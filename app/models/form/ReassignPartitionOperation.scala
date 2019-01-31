@@ -11,7 +11,7 @@ import kafka.manager.model.ActorModel
 import ActorModel.BrokerIdentity
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 sealed abstract class ReassignPartitionOperation (override val entryName: String) extends EnumEntry with Snakecase with Uppercase
 

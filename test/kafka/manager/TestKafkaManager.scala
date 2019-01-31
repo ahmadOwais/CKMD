@@ -19,7 +19,7 @@ import scala.concurrent.duration._
 import scala.util.Try
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class TestKafkaManager extends CuratorAwareTest with BaseTest {
   private[this] val seededTopic = "km-api-test"

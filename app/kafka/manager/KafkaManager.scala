@@ -27,7 +27,7 @@ import scala.reflect.ClassTag
 import scala.util.{Failure, Success, Try}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 case class TopicListExtended(list: IndexedSeq[(String, Option[TopicIdentity])],
                              topicToConsumerMap: Map[String, Iterable[(String, ConsumerType)]],

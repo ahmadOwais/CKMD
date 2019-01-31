@@ -18,7 +18,7 @@ import scala.concurrent.Future
 import scala.util.{Failure, Try}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 
 case class KafkaCommandActorConfig(curator: CuratorFramework, 

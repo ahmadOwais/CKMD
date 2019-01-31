@@ -12,7 +12,7 @@ import play.api.inject.ApplicationLifecycle
 import scala.concurrent.Future
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class KafkaManagerContext (lifecycle: ApplicationLifecycle, configuration: Configuration) {
 

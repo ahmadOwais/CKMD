@@ -6,6 +6,6 @@
 package models
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 case class FollowLink(title: String, url: String)

@@ -21,7 +21,7 @@ import scala.concurrent.Future
 import scalaz.-\/
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class PreferredReplicaElection (val messagesApi: MessagesApi, val kafkaManagerContext: KafkaManagerContext)
                                (implicit af: ApplicationFeatures, menus: Menus) extends Controller with I18nSupport {

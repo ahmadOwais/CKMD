@@ -9,7 +9,7 @@ import kafka.manager.model.ActorModel
 import ActorModel.{ActorRequest, CommandRequest}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 abstract class BaseCommandActor extends BaseActor {
 

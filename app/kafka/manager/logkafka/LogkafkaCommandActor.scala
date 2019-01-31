@@ -15,7 +15,7 @@ import scala.concurrent.Future
 import scala.util.Try
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 
 case class LogkafkaCommandActorConfig(curator: CuratorFramework, 

@@ -12,7 +12,7 @@ import org.scalatest.{BeforeAndAfterAll, FunSuite}
 import scala.reflect.ClassTag
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 trait CuratorAwareTest extends FunSuite with BeforeAndAfterAll with ZookeeperServerAwareTest {
 

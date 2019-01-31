@@ -10,7 +10,7 @@ import org.apache.curator.retry.BoundedExponentialBackoffRetry
 import org.scalatest.{BeforeAndAfterAll, FunSuite}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 trait KafkaServerInTest extends FunSuite with BeforeAndAfterAll {
   val kafkaServerZkPath : String

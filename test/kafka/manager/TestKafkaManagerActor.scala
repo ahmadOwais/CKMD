@@ -23,7 +23,7 @@ import scala.reflect.ClassTag
 import scala.util.Try
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class TestKafkaManagerActor extends CuratorAwareTest with BaseTest {
 

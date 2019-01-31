@@ -21,7 +21,7 @@ import scala.concurrent.{ExecutionContext, Future}
 import scala.util.Try
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 import kafka.manager.model.ActorModel._
 case class BrokerViewCacheActorConfig(kafkaStateActorPath: ActorPath,

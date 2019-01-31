@@ -7,7 +7,7 @@ package kafka.manager.model
 import org.scalatest.FunSuite
 
 /**
-  * @author fuji-151a
+  * @author mohaahma
   */
 class KafkaVersionTest extends FunSuite {
 
