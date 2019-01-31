@@ -10,7 +10,7 @@ import java.nio.charset.StandardCharsets
 import kafka.manager.features.{ClusterFeatures, ClusterFeature}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 package object manager {
 

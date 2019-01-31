@@ -17,7 +17,7 @@ import org.apache.zookeeper.data.Stat
 import scala.concurrent.Future
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class TestReassignPartitions extends CuratorAwareTest with BaseTest {
 

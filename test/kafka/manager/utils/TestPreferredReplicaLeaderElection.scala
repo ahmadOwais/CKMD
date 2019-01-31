@@ -8,7 +8,7 @@ import kafka.common.TopicAndPartition
 import kafka.manager.utils.zero81.{PreferredLeaderElectionErrors, PreferredReplicaLeaderElectionCommand}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class TestPreferredReplicaLeaderElection extends CuratorAwareTest {
   import PreferredLeaderElectionErrors._

@@ -8,7 +8,7 @@ package models.navigation
 import play.api.mvc.Call
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 case class Menu(title: String, items:Seq[(String,Call)], route : Option[Call]) {
   require(items.nonEmpty && route.isEmpty || items.isEmpty && route.isDefined, "Cannot have both menu items and a root link")

@@ -8,7 +8,7 @@ import kafka.manager.model.{ClusterConfig, ClusterTuning, Kafka_0_8_1_1, PLAINTE
 import org.scalatest.{FunSuite, Matchers}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class TestClusterConfig extends FunSuite with Matchers {
 

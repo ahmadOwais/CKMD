@@ -6,7 +6,7 @@
 package kafka.manager.utils
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 abstract class UtilError(msg: String) {
   override def toString : String = msg

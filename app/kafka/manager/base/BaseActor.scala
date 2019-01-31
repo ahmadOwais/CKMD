@@ -10,7 +10,7 @@ import kafka.manager.model.ActorModel
 import ActorModel.{ActorErrorResponse, ActorRequest, ActorResponse}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 abstract class BaseActor extends Actor with ActorLogging {
 

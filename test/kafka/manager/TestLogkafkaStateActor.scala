@@ -24,7 +24,7 @@ import scala.reflect.ClassTag
 import scala.util.Try
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class TestLogkafkaStateActor extends KafkaServerInTest with BaseTest {
 

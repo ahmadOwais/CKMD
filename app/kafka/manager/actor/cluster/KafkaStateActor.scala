@@ -50,7 +50,7 @@ import org.apache.kafka.common.protocol.Errors
 import org.apache.kafka.clients.CommonClientConfigs.SECURITY_PROTOCOL_CONFIG
 
 /**
-  * @author hiral
+  * @author mohaahma
   */
 import kafka.manager.utils._
 

@@ -15,7 +15,7 @@ import org.apache.curator.test.InstanceSpec
 import scala.util.Try
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class KafkaTestBroker(zookeeper: CuratorFramework, zookeeperConnectionString: String) {
   private[this] val port: Int = InstanceSpec.getRandomPort

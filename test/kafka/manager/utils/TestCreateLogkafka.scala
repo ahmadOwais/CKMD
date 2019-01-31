@@ -15,7 +15,7 @@ import kafka.manager.model.{ClusterContext, ClusterConfig, Kafka_0_8_2_0}
 import org.apache.zookeeper.data.Stat
 import scala.concurrent.Future
 /**
- * @author zheolong
+ * @author mohaahma
  */
 class TestCreateLogkafka extends CuratorAwareTest with BaseTest {
 

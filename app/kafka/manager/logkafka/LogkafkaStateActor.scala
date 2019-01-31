@@ -18,7 +18,7 @@ import org.joda.time.{DateTime, DateTimeZone}
 import scala.util.{Failure, Success, Try}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 import scala.collection.JavaConverters._
 class LogkafkaStateActor(curator: CuratorFramework, 

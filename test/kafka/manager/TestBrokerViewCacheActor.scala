@@ -24,7 +24,7 @@ import scala.reflect.ClassTag
 import scala.util.Try
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 class TestBrokerViewCacheActor extends KafkaServerInTest with BaseTest {
   private[this] val akkaConfig: Properties = new Properties()

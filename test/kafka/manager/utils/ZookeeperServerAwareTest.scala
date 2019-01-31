@@ -9,7 +9,7 @@ import org.scalatest.{BeforeAndAfterAll, FunSuite}
 
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 trait ZookeeperServerAwareTest extends FunSuite with BeforeAndAfterAll {
 

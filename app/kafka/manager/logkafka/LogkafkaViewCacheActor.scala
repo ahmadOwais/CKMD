@@ -15,7 +15,7 @@ import scala.concurrent.duration._
 import scala.util.Try
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 case class LogkafkaViewCacheActorConfig(logkafkaStateActorPath: ActorPath, 
                                       clusterContext: ClusterContext,

@@ -23,7 +23,7 @@ import scalaz.{NonEmptyList, Validation}
 import scala.collection.immutable.Map
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 object ActorModel {
   trait ActorRequest

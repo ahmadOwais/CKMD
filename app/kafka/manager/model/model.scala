@@ -14,7 +14,7 @@ import scala.util.matching.Regex
 import scalaz.Validation.FlatMap._
 
 /**
-  * @author hiral
+  * @author mohaahma
   */
 case class CuratorConfig(zkConnect: String, zkMaxRetry: Int = 100, baseSleepTimeMs : Int = 100, maxSleepTimeMs: Int = 1000)
 

@@ -9,7 +9,7 @@ import kafka.manager.model.ActorModel
 import ActorModel.{ActorRequest, CommandRequest, QueryRequest}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 abstract class BaseQueryCommandActor extends BaseActor {
   final def processActorRequest(request: ActorRequest): Unit = {

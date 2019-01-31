@@ -25,7 +25,7 @@ import scala.concurrent.{ExecutionContext, Future}
 import scala.util.{Failure, Success, Try}
 
 /**
- * @author hiral
+ * @author mohaahma
  */
 
 object KafkaManagerActor {
